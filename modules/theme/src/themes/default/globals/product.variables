@@ -132,19 +132,19 @@
       Product Branding
 ------------------------------*/
 
-@productLogoHeight: 25px;
+@productLogoHeight: 70px;
 @productLogoVerticalAlign: middle;
-@productLogoWidth: 60px;
-@productLogoMargin: -3px 0 0 0;
+@productLogoWidth: 140px;
+@productLogoMargin: -6px 0 0 0;
 
 @productTitleTextTransform: uppercase;
 @productTitleAppNameTextTransform: none;
 @productTitleFontWeight: 400;
 @productTitleFontSize: 1.2rem;
-@productTitleAppNameMargin: 0 0 0 5px;
-@productTitleAppNameFontSize: inherit;
-@productTitleAppNameFontWeight: 300;
-@productTitleAppNameColor: inherit;
+@productTitleAppNameMargin: 0 10px 0 20px;
+@productTitleAppNameFontSize: 20px;
+@productTitleAppNameFontWeight: 400;
+@productTitleAppNameColor: @white;
 
 @productVersionLabelPadding: 3px 6px;
 @productVersionLabelFontSize: 0.6em;

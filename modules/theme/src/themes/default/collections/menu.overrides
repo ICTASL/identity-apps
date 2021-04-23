@@ -260,6 +260,10 @@
         background: @appFooterBackground;
         height: @appFooterHeight;
 
+        .copyright {
+            color: @whiteSmoke;
+        }
+
         .footer-link, .footer-dropdown .dropdown-trigger.link {
             color: @appFooterLinkColor;
 

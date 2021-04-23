@@ -48,7 +48,7 @@
     Brand Colors
 --------------------*/
 
-@primaryColor        : @orange;
+@primaryColor        : @blue;
 @secondaryColor      : @doveGray;
 @accentColor1        : #173163;
 @accentColor2        : #f5385b;
@@ -88,7 +88,7 @@
 --------------------*/
 
 @pageBackground      : #fbfbfb;
-@lightPageBackground : @white;
+@lightPageBackground : @blue;
 
 /*-------------------
        Accents

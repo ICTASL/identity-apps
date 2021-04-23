@@ -76,7 +76,7 @@
 
 @appFooterBackground: @lightPageBackground;
 @appFooterHeight: 50px;
-@appFooterLinkColor: @textColor;
+@appFooterLinkColor: @whiteSmoke;
 @appFooterLinkTextDecoration: underline;
 
 /*-------------------
@@ -138,7 +138,7 @@
 @userDropdownLinkedAccountMargin: 8px 0;
 @userDropdownTenantMargin: 5px 0;
 @userDropdownTenantPadding: 5px 10px;
-@userDropdownTriggerTextColor: inherit;
+@userDropdownTriggerTextColor: @whiteSmoke;
 
 /*-------------------------------
       Governance Connectors
